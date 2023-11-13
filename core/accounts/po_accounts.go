@@ -3,7 +3,7 @@ package accounts
 import (
 	"database/sql"
 	"github.com/shopspring/decimal"
-	services "account/services"
+	services "github.com/zhangxinling2/account/services"
 	"time"
 )
 

@@ -2,7 +2,7 @@ package accounts
 
 import (
 	"github.com/shopspring/decimal"
-	services "account/services"
+	services "github.com/zhangxinling2/account/services"
 	"time"
 )
 

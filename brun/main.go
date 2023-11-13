@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/tietang/props/ini"
 	"github.com/tietang/props/kvs"
-	_ "account"
+	_ "github.com/zhangxinling2/account"
 	"github.com/zhangxinling2/infra"
 )
 

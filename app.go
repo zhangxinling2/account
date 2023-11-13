@@ -1,8 +1,8 @@
 package Hongbao_system
 
 import (
-	_ "account/apis/web"
-	_ "account/core/accounts"
+	_ "github.com/zhangxinling2/account/apis/web"
+	_ "github.com/zhangxinling2/account/core/accounts"
 	"github.com/zhangxinling2/infra"
 	"github.com/zhangxinling2/infra/base"
 )

@@ -5,7 +5,7 @@ import (
 	"github.com/shopspring/decimal"
 	"github.com/sirupsen/logrus"
 	. "github.com/smartystreets/goconvey/convey"
-	services "account/services"
+	services "github.com/zhangxinling2/account/services"
 	"testing"
 )
 

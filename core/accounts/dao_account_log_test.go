@@ -6,9 +6,9 @@ import (
 	"github.com/sirupsen/logrus"
 	. "github.com/smartystreets/goconvey/convey"
 	"github.com/tietang/dbx"
+	services "github.com/zhangxinling2/account/services"
+	_ "github.com/zhangxinling2/account/testx"
 	"github.com/zhangxinling2/infra/base"
-	services "account/services"
-	_ "account/testx"
 	"testing"
 )
 

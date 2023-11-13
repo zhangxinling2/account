@@ -1,4 +1,4 @@
-module account
+module github.com/zhangxinling2/account
 
 go 1.18
 

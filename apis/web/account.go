@@ -2,9 +2,9 @@ package web
 
 import (
 	"github.com/kataras/iris/v12"
+	service "github.com/zhangxinling2/account/services"
 	"github.com/zhangxinling2/infra"
 	"github.com/zhangxinling2/infra/base"
-	service "account/services"
 )
 
 const (

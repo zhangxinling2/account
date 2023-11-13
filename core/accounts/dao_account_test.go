@@ -8,7 +8,6 @@ import (
 	. "github.com/smartystreets/goconvey/convey"
 	"github.com/tietang/dbx"
 	"github.com/zhangxinling2/infra/base"
-	_ "account/testx"
 	"testing"
 )
 
